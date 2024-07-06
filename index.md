@@ -5,14 +5,13 @@ title: Home
 
 # About me
 
-I'm an economist, data scientist, and machine learning algorithm developer at [QuantCo](http://quantco.com), where I build pricing solutions.
-I did an economics PhD in the fields of econometrics and public economics
-at Harvard University. I focused on
-methodological issues in evaluating teacher quality.
+I'm a Research Engineer at Meta, where I work on Bayesian Optimization with [BoTorch](https://github.com/pytorch/botorch)
+and [Ax](https://github.com/facebook/Ax). Previous gigs include working as a Research Scientist at Meta, focusing on experimentation;
+building machine learning solutions for e-commerce and insurance at [QuantCo](http://quantco.com), where I
+co-wrote [glum](https://github.com/Quantco/glum) and [tabmat](https://github.com/Quantco/tabmat); and
+writing an economics PhD thesis at Harvard.
 
 I once successfully ingested the clear plastic thing from the top of the blender.
-
-[My husband](http://tbenthompson.com) is really smart.
 
 # Contact information
 <a href="mailto:elizabeth.santorella@gmail.com">Email</a>
